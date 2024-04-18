@@ -4,6 +4,7 @@
 - Every Tuesday 12:30 - 14:00 in seminar room 25.02.02.21
 - First lecture 09.04.2024 & last lecture 16.07.2024
 - Slides are available as PDF in the folder "Lecture slides".
+- Lecture videos are available at: https://www.youtube.com/@DL4Molecules/playlists
 
 ## Excercise group
 - Every Tuesday 16:30 - 18:00 in seminar room 25.02.02.21

@@ -8,7 +8,7 @@
 
 ## Excercise group
 - Every Tuesday 16:30 - 18:00 in seminar room 25.02.02.21
-- First exercise group: 23.04.2024 & Last exercise group: 16.07.2024
+- First exercise group: 30.04.2024 (discussion of worksheets 1 & 2) & Last exercise group: 16.07.2024
 
 ## Worksheets:
 - Published weekly on Tuesdays in the Worksheets folder. First worksheet will be published on 16.04.2024

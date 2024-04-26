@@ -6,6 +6,16 @@
 - Slides are available as PDF in the folder "Lecture slides".
 - Lecture videos are available at: https://www.youtube.com/@DL4Molecules/playlists
 
+ 
+### Content of upcoming lectures
+- Training of protein language models (self-supervised and supervised)
+- The ESM-1b protein transformer network
+- Gradient Boosting Decision Trees
+- What are small molecules?
+- Transformer networks for small molecules
+- Best practices for optimizing/training Transformer Networks
+- Multimodal transformer networks (proteins and small molecules in the same input sequence)
+
 ## Excercise group
 - Every Tuesday 16:30 - 18:00 in seminar room 25.02.02.21
 - First exercise group: 30.04.2024 (discussion of worksheets 1 & 2) & Last exercise group: 16.07.2024

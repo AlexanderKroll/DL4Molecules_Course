@@ -8,13 +8,8 @@
 
  
 ### Content of upcoming lectures
-- Training of protein language models (self-supervised and supervised)
-- The ESM-1b protein transformer network
-- Gradient Boosting Decision Trees
-- What are small molecules?
-- Transformer networks for small molecules
+- Challenges when dealing with biological/chemical data
 - Best practices for optimizing/training Transformer Networks
-- Multimodal transformer networks (proteins and small molecules in the same input sequence)
 
 ## Excercise group
 - Every Tuesday 16:30 - 18:00 in seminar room 25.02.02.21
@@ -27,4 +22,6 @@
 - Admission to exams requires 50% of points on worksheets
 
 ## Exam
-TBD
+The exam will be a written exam. Dates for the exams:
+- 1st exam: 02.08.2024, 09:00 - 10:30 am, lecture hall 5A
+- 2nd exam: 25.09.2024, 09:00 - 10:30 am, lecture hall 5G
